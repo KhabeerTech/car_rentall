@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "541285325410",
+    "project_id": "carshop-22b45",
+    "storage_bucket": "carshop-22b45.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:541285325410:android:3f2f8e5576f610a0cb8f3b",
+        "android_client_info": {
+          "package_name": "com.example.car_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaN8orkqGs_x3NRX1QUtWFGeb_5mIsj2A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:541285325410:android:fdf668d8f8985a81cb8f3b",
+        "android_client_info": {
+          "package_name": "com.example.car_rentall"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaN8orkqGs_x3NRX1QUtWFGeb_5mIsj2A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
